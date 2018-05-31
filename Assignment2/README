@@ -1,0 +1,11 @@
+Generating summary of each topic according to the Degree-Centrality algorithm:
+
+For generating summary for Topic1 with threshold 0.1:
+	python summary.py Topic1 0.1
+
+For generating summary for Topic2 with threshold 0.2:
+	python summary.py Topic2 0.2
+
+TextRank.py
+For generating text rank summary within 250 words:
+	python TextRank.py
